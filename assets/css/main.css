@@ -728,8 +728,8 @@ input[type="radio"] + label:before {
   line-height: 1;
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
-  font-weight: 400;
-  font-size: 1.5rem;
+  /* font-weight: 300; */
+  /* font-size: 1.5rem; */
 }
 
 .icon > .label {
