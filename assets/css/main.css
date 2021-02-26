@@ -1801,3 +1801,28 @@ body.is-preload #footer {
   display: flex;
   flex-direction: row;
 }
+
+.stack-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.stack-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  height: 100px;
+}
+
+.stack-image a {
+  border-bottom: none;
+}
+
+.stack-image img {
+  padding: 10px;
+  width: 80px;
+}
